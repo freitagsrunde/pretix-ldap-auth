@@ -1,0 +1,8 @@
+/.idea
+*.iml
+/.venv
+/.pdm.toml
+/pdm.lock
+/build
+/dist
+/data
